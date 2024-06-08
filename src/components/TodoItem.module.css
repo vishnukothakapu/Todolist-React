@@ -1,31 +1,8 @@
-.item {
-    width: 450px;
-    color: #353935;
-    font-size: 20px;
-    margin: 0 auto;
-}
-.itemName {
-    font-weight: bold;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    cursor: pointer;
-}
+
 .line {
     border: 1px solid #ddd;
 }
-.deleteBtn {
-    padding: 12px 14px;
-    border: none;
-    background-color :#2c3e50;
-    color: white;
-    cursor: pointer;
-    border-radius: 100%;
-}
-.deleteBtn:hover , .deleteBtn:active {
-    background-color: #1a2c40;
-}
+
 .completed {
     text-decoration: line-through;
 }
